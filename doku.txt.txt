@@ -1,0 +1,16 @@
+A continuación se describirán los pasos con los cuales se llevo a cabo la actividad #1 del curso:
+
+1) Se procedió a aperturar el repositorio https://github.com/jcorreaITM/lab0_2019_1.git.
+2) Una vez ejecutado, se clonó el mismo en el escritorio del equipo en el que se realizó la práctica.
+3) Se descomprimió el archivo y se extrajo en el escritorio.
+4) Se abrió el archivo de nombre "Lab0_GitHub" en el cual se detalla específicamente el paso a paso con el que se pueden crear y manipular repositorios en la herramienta web GitHub.
+5) Posterior a ello, en GitHub, creamos un repositorio con la ayuda del archivo anteriormente mencionado. 
+6) Se ejecutó el archivo "instrucciones" que se encontraba dentro del repositorio descargado con anterioridad. 
+7) Se generó un archivo de texto en el que se copió una entrada aleatoria de una ruta especificada en el archivo "instrucciones" (https://es.quora.com/Que-es-c++).
+8) Se generó un nuevo branch siguiendo las indicaciones del archivo "Lab0_GitHub". 
+9) En dicho Branch, se agregó un nuevo archivo llamado "El Mejor" el cual contenía otra entrada de otra dirección web proporcionada (https://es.quora.com/Cu%C3%A1l-es-el-mejor-IDE-para-C-y-C++
+)
+10) 
+En el archivo "instrucciones" se solicita compilar un código que se encuentra en otro archivo del repositorio descargado inicialmente, dicho archivo se llama "secuencia" y, adicionalmente, se solicita reemplazar el contenido del archivo "secuencia" por el resultado de la compilación del código (Es una serie numerica). Los posibles enlaces para realizar la compilación son los siguientes: "https://www.onlinegdb.com/online_c++_compiler" o "http://cpp.sh".
+11) Con ayuda de la guía de manejo del GitHub, se realiza la fusión de los cambios realizados en el branch nuevo con el branch "master" pulsando la siguiente serie de botones en página (considerando que nos encontramos en la ventana inicial del nuevo branch): Compare & Pull Request -> Create Pull Request -> "Merge Pull Request" -> "Confirm Merge". Es importante recordar que una vez realizado este proceso, puede ser prescindible el branch en el cual se realizaron los cambios, por lo que, se puede eliminar el mismo presionando el botón "Delete branch".
+12) Finalmente, se confirma que en el branch master se visualicen los archivos modificados y los cambios para realizar el envío del enlace del reposiorio al profesor.
